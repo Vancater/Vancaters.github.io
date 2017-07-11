@@ -1,2 +1,2 @@
-#vancater.github.io
+#Vancater.github.io
 my portfolio
